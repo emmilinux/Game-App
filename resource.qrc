@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/sonic_main.png</file>
+        <file>resource/monkey-maze-making.jpg</file>
+        <file>resource/Tower-Defence.jpg</file>
+        <file>resource/pacman.jpg</file>
+        <file>resource/estrela.png</file>
+        <file>resource/Snowball.jpg</file>
+        <file>resource/tetris.png</file>
+        <file>resource/bombit6.jpg</file>
+        <file>resource/thumb-mario.jpg</file>
+    </qresource>
+</RCC>
